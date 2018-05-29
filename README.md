@@ -6,6 +6,8 @@ Prepros-pug-sass-typescript is a frontend web kit and boilerplate for building w
 
 It also supports typescript
 
+Read [here](/src/README.md) if you don't know what typescript/pug/sass is
+
 ## Inspiration
 
 I just wanted a quick and dirty tool for laying out multipage HTML websites and/or prototyping. All the solutions I found out there were not to my liking. Either they have too many steps involved in installation, or don't work out on my windows 7 / windows 10 PCs. My goal is to have the following:
@@ -35,7 +37,7 @@ Inspiration is drawn from the following resources
 
 ## Features specific to prepros settings
 
-- Check out the documents to see how the scss folder is structured [here](sass/README.md)
+- Check out the documents to see how the scss folder is structured [here](/src/sass/README.md)
 - `src/pug` compiles to `dist/`
 - `src/sass` compiles to `dist/css`
 - `src/ts` compiles to `dist/ts`
