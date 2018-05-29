@@ -1,0 +1,16 @@
+/* Very generic multipurpose media queries*/
+@mixin media-min($min) {
+  @media (min-width: $min) {
+    @content
+  }
+};
+@mixin media-max($max) {
+  @media (max-width: $max) {
+    @content
+  }
+};
+@mixin media-minmax($min, $max){
+  @media (min-width: $min) and (max-width: $max){
+    @content
+  }  
+};

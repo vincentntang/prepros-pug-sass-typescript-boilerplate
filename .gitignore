@@ -1,0 +1,5 @@
+# Prepros populates this cannot remove
+/src/dist/
+
+# Ignore compiled folder
+/dist/

@@ -35,7 +35,17 @@ Inspiration is drawn from the following resources
 - Doesn't require NPM, bower, yarn
 - All the features of prepros
 - Optimized prepros settings for compiling files
-- Jquery and Bootstrap 4 are included from CDN web links. *You can comment these out*
+- Jquery, Bootstrap 4, and Font Awesome are included from CDN web links.
+- [Uses the bootstrap 4 thumbnail gallery template](https://startbootstrap.com/template-overviews/thumbnail-gallery/) as a starting point.
+- Only modifications to scss file are in `mixins.scss` and `body.scss`
+
+## Features specific to prepros settings
+
+- Check out the documents to see how the scss folder is structured [here](sass/README.md)
+- `src/pug` compiles to `dist/`
+- `src/sass` compiles to `dist/css`
+- `src/ts` compiles to `dist/ts`
+- If you are using local images put them in `dist/img`
 
 ## Requirements
 
@@ -43,16 +53,12 @@ Inspiration is drawn from the following resources
 
 ## Install
 
-Install prepros
+1. Install prepros
+2. Fork this repo or download it
+3. It includes optimized settings in `prepros.config` file
+4. Run prepros
+5. Add your project
 
-Fork this repo or download it
+## Changelog
 
-It includes optimized settings in `prepros.config` file
-
-Run prepros
-
-![](https://i.imgur.com/eYwvFcz.png)
-
-Add your project
-
-Change somethings
+- version 1.0.0 >> supports bootstrap 4, jquery, pug, sass, typescript with prepros 
