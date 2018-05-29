@@ -1,11 +1,5 @@
 <a><img src="https://i.imgur.com/xjgwEas.png" height="300" align="right"></a>
 
-<style>
-  img:hover {
-    border: 2px solid red;
-  }
-</style>
-
 ## Prepros-pug-sass-typescript boilerplate
 
 Prepros-pug-sass-typescript is a frontend web kit and boilerplate for building webapps or small sites using PUG (jade) and Sass.
