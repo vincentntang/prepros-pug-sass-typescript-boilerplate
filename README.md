@@ -54,6 +54,12 @@ Inspiration is drawn from the following resources
 3. It includes optimized settings in `prepros.config` file
 4. Run prepros
 5. Add your project
+6. Compile Each File (right click → process) on following files `main.scss`, `index.pug`, `about.pug`, `contact.pug`, `script.ts`
+7. http://localhost:7880/dist/index.html
+
+Result:
+
+![](https://i.imgur.com/FEol2cV.gif)
 
 ## Changelog
 
