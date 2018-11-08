@@ -10,7 +10,7 @@ Read [here](/src/README.md) if you don't know what typescript/pug/sass is
 
 ## Inspiration
 
-I just wanted a quick and dirty tool for laying out multipage HTML websites and/or prototyping. All the solutions I found out there were not to my liking. Either they have too many steps involved in installation, or don't work out on my windows 7 / windows 10 PCs. My goal is to have the following:
+I needed a quick way for laying out multipage HTML websites and/or prototyping. All the solutions I found out there were not to my liking. Either they have too many steps involved in installation, or don't work out on my windows 7 / windows 10 PCs. My goal is to have the following:
 
 1. Painless setup that works 100% of the time
 2. Fast feedback loop for frontend development
